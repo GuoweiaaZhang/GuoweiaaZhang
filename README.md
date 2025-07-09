@@ -3,8 +3,7 @@
 
 <p align="center">
   🎓 Ph.D. Candidate in Mechanical Engineering at Xidian University<br>
-  🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)<br>
-  🤖 Researching AI-powered intelligent fault diagnosis for rotating machinery<br>
+  🌏 2024–2025 Joint Ph.D. at National University of Singapore (NUS)<br>
 </p>
 
 ### 📚 Recent Research Interests
