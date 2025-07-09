@@ -22,11 +22,4 @@
 
 - 📧 Email: [zhanggw13@163.com](mailto:zhanggw13@163.com)
 - 🔗 Google Scholar: [📚 Link](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ&view_op=list_works&sortby=pubdate)
-- 
 ---
-
-### 🛠️ Tech Stack
-
-```text
-Python | PyTorch | MATLAB | NumPy | Scikit-learn | OpenCV
-Signal Processing | Deep Learning | Vibration Analysis | LaTeX
