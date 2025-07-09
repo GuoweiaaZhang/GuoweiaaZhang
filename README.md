@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi, I'm Guowei Zhang (张国伟) 👋</h1>
 
 <p align="center">
