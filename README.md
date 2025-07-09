@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Guowei Zhang (张国伟) 👋</h1>
 
 <p align="center">
-  🎓 Ph.D. Candidate in Mechanical Engineering at <strong>Xidian University</strong><br>
-  🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)</strong><br>
-  🤖 Researching AI-powered intelligent fault diagnosis for rotating machinery<br>
+  🎓 Ph.D. Candidate in Mechanical Engineering at Xidian University
+  🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)
+  🤖 Researching AI-powered intelligent fault diagnosis for rotating machinery
 </p>
 
 ### 📚 Recent Research Interests
