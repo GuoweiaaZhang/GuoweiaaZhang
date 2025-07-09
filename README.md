@@ -7,22 +7,13 @@
   🤖 Researching AI-powered intelligent fault diagnosis for rotating machinery<br>
 </p>
 
----
-
-### 🔬 About Me
-
-I’m a Ph.D. student (class of 2021) in Mechanical Engineering at Xidian University, currently pursuing a joint Ph.D. program at the National University of Singapore (2024–2025).  
-My research focuses on **intelligent fault diagnosis** empowered by **next-generation artificial intelligence**, aiming to build robust, generalizable models for industrial systems.
-
----
-
 ### 📚 Recent Research Interests
 
-- Intelligent Fault Diagnosis under Complex Industrial Conditions  
-- Domain Generalization and Adversarial Learning  
-- Signal Processing for Rotating Machinery  
-- Federated Learning for Privacy-Preserving Fault Detection  
+-Fault Diagnosis and Prognosis Methods Based on Next-Generation Artificial Intelligence in the Era of Big Data
 
+-Health Management and Intelligent Operation & Maintenance Technology Based on the Integration of Data and Physical Models
+
+-Non-Stationary Signal Processing and Intelligent Monitoring Techniques for Operational State Analysis
 ---
 
 ### 📬 Contact
