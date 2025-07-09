@@ -20,6 +20,7 @@
 
 ### 📬 Contact
 ---
-- 📧 Email: [call me](mailto:zhanggw13@163.com)
-- 🔗 Google Scholar: [📚 Link](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ&view_op=list_works&sortby=pubdate)
+Feel free to reach out via email or check out my latest publications:
+- 📧 Email: [zhanggw13@163.com](mailto:zhanggw13@163.com)
+- 🔗 Google Scholar: [[Click here](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ&view_op=list_works&sortby=pubdate)
 ---
