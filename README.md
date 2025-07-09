@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Guowei Zhang (张国伟) 👋</h1>
 
 <p align="center">
-  🎓 Ph.D. Candidate in Mechanical Engineering at Xidian University<br>
+  🎓 Ph.D. Candidate (class of 2021) in Mechanical Engineering at Xidian University<br>
   🌏 2024–2025 Joint Ph.D. at National University of Singapore (NUS)<br>
 </p>
 
@@ -21,10 +21,8 @@
 ### 📬 Contact
 
 - 📧 Email: [zhanggw13@163.com](mailto:zhanggw13@163.com)
-- 🔗 Google Scholar: [📚 Link](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ)
-- 🌐 Personal Website (if any): [yourwebsite.com](https://yourwebsite.com)
-- 📝 Blog (optional): [yourblog.com](https://yourblog.com)
-
+- 🔗 Google Scholar: [📚 Link]([https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ&view_op=list_works&sortby=pubdate))
+- 
 ---
 
 ### 🛠️ Tech Stack
