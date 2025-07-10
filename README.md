@@ -6,7 +6,7 @@
   🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)</strong><br>
 </p>
 
-### 📚 Recent Research Interests
+### 📚 Research Interests
 
 ---
 
