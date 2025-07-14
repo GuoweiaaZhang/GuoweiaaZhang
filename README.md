@@ -23,4 +23,5 @@
 Feel free to reach out via email or check out my latest publications:
 - 📧 Email: [[zhanggw13@163.com]](mailto:zhanggw13@163.com)
 - 🔗 Google Scholar: [[Click here]](https://scholar.google.com/citations?hl=en&user=tbnYvfwAAAAJ&view_op=list_works&sortby=pubdate)
+- 🔗 ResearchGate: [[Click here]]([https://www.researchgate.net/profile/Guowei-Zhang-10](https://www.researchgate.net/profile/Guowei-Zhang-18/publications))
 ---
