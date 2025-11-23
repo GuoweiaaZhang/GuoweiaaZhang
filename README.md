@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm Guowei Zhang (张国伟) 👋</h1>
 
 <p align="center">
-  🎓 Ph.D. Candidate in Mechanical Engineering at <strong>Xidian University</strong><br>
+  🧑‍🔬 Postdoctoral Researcher at <strong>Tsinghua University</strong><br>
+  🎓 Ph.D. in Mechanical Engineering, <strong>Xidian University</strong><br>
   🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)</strong><br>
 </p>
 
