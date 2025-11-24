@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍🔬 Postdoctoral Researcher at <strong>Tsinghua University</strong><br>
   🎓 Ph.D. in Mechanical Engineering, <strong>Xidian University</strong><br>
-  🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore (NUS)</strong><br>
+  🌏 2024–2025 Joint Ph.D. at <strong>National University of Singapore</strong><br>
 </p>
 
 ### 📚 Research Interests
