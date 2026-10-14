@@ -11,11 +11,9 @@
 
 ---
 
--Fault Diagnosis and Prognosis Methods Based on Next-Generation Artificial Intelligence in the Era of Big Data
-
--Health Management and Intelligent Operation & Maintenance Technology Based on the Integration of Data and Physical Models
-
--Non-Stationary Signal Processing and Intelligent Monitoring Techniques for Operational State Analysis
+- Intelligent Fault Diagnosis and Condition Monitoring of Rotating Machinery
+- Domain Generalization and Robust Learning under Variable and Unseen Operating Conditions
+- Test-Time Adaptation and Continual Learning for Intelligent Machinery Diagnosis
 
 ---
 
